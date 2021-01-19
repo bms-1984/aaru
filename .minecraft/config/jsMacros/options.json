@@ -1,0 +1,17 @@
+{
+  "defaultProfile": "default",
+  "sortMethod": "Enabled",
+  "disableKeyWhenScreenOpen": true,
+  "profiles": {
+    "default": [
+      {
+        "triggerType": "EVENT",
+        "event": "ProfileLoad",
+        "scriptFile": "index.js",
+        "enabled": false
+      }
+    ]
+  },
+  "extraJsOptions": {},
+  "lazySyntaxHighlighting": false
+}
